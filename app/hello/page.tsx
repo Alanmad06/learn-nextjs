@@ -1,4 +1,4 @@
-export const Page = () =>{
+export default function Page() {
 
     return (
         <>
@@ -6,5 +6,3 @@ export const Page = () =>{
         </>
     )
 }
-
-export default Page
