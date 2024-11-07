@@ -1,4 +1,4 @@
-export const route = () =>{
+export const Page = () =>{
 
     return (
         <>
@@ -7,4 +7,4 @@ export const route = () =>{
     )
 }
 
-export default route
+export default Page
